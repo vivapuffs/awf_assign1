@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/awf_assign1/static/css/main.d840dbb6.css",
+    "main.js": "/awf_assign1/static/js/main.8593368a.js",
+    "index.html": "/awf_assign1/index.html",
+    "main.d840dbb6.css.map": "/awf_assign1/static/css/main.d840dbb6.css.map",
+    "main.8593368a.js.map": "/awf_assign1/static/js/main.8593368a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d840dbb6.css",
+    "static/js/main.8593368a.js"
+  ]
+}
